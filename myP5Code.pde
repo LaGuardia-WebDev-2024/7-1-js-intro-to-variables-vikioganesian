@@ -58,7 +58,7 @@ void mousePressed(){
   var myText = "x: " + mouseX + "\ny: " + mouseY;
   text(myText, mouseX + 15, mouseY);
   console.log(myText);
-  eyeSize
+  eyeSize = eyeSize +4
   
   
 }
